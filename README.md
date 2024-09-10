@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CodyCastro and I'm a student.
+## 👋 Hi!
+-  I’m @CodyCastro.
 - 👀 I’m interested in Gamedev, 3d modeling and music producing.
 - 🌱 I’m currently learning Kotlin and Android studio.
 
